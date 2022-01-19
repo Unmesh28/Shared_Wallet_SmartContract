@@ -1,1 +1,1 @@
-# Shared_Wallet_SmartContract
+# Shared Wallet SmartContract
